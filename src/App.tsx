@@ -14,7 +14,7 @@ function App() {
         <Contact />
       </main>
       <footer className="bg-gray-800 text-white py-8 text-center">
-        <p>&copy; 2024 John Doe. All rights reserved.</p>
+        <p>&copy; 2024 Surya. All rights reserved.</p>
       </footer>
     </div>
   );
